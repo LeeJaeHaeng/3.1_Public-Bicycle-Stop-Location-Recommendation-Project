@@ -31,9 +31,9 @@ class WorkingSeoulTtareungyiAnalyzer:
         self.best_model = None
         
         # 파일 경로
-        self.seoul_usage_path = r"C:\Users\leejh\OneDrive\바탕 화면\3-1\기계학습프로젝트\팀플\서울시 따릉이 데이터CSV_2407~2412\tpss_bcycl_od_statnhm_20241102.csv"
-        self.seoul_station_path = r"C:\Users\leejh\OneDrive\바탕 화면\3-1\기계학습프로젝트\팀플\서울시 따릉이 데이터CSV_2407~2412\서울시 따릉이 대여소별 대여반납 승객수 정보 _20241231.csv"
-        self.daegu_seogu_path = r"C:\Users\leejh\OneDrive\바탕 화면\3-1\기계학습프로젝트\팀플\대구 인구\대구광역시  수성구_월별인구현황.csv"
+        self.seoul_usage_path = r""
+        self.seoul_station_path = r""
+        self.daegu_seogu_path = r""
 
         
         # 서울 그룹 분할
